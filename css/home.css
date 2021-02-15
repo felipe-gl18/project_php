@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #24252A;
+}
+li, a, #btntop {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10px;
+}
+.logo {
+   position: absolute;
+   z-index: 20000;
+   margin-left: -1150px;
+   cursor: pointer;
+   margin-top: -25px;
+
+}
+.nav_links {
+    list-style: none;
+    margin-right: 140px;
+}
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+}
+.nav_links li a:hover {
+    color: #0088a9;
+}
+#btntop{
+    padding: 9px 25px;
+    background-color:#00cba9;
+    border: none;
+    border-radius: 50px;
+    cursor:pointer;
+    transition: all 0.3s ease 0s;
+    outline: none;
+
+}
+.cta{
+    z-index: 10000;
+}
+#btntop:hover {
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    outline: none;
+
+}
+.waves {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+div h1{
+    color: white;
+    text-align: center;
+    border:4px solid white;
+    padding: 10px 50px;
+    width: 400px;
+    margin-top: 150px;
+}
+
+#insta{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.rodape{
+    width: 1499px;
+    position: absolute;
+    margin-top: 507px;
+    background-color: #f8f6fa;
+}
+
+.wave-1 {
+    animation: moveWave1 3s ease-in-out infinite alternate;
+  }
+
+  @keyframes moveWave1 {
+    from {
+      transform: translateX(-2000px);
+    }
+  }
+
+  .wave-2 {
+    animation: moveWave2 3s 1.2s ease-in-out infinite alternate;
+  }
+
+  @keyframes moveWave2 {
+    from {
+      transform: translateX(-1800px);
+    }
+  }
+
+  .wave-3 {
+    animation: moveWave3 3s 0.7s ease-in-out infinite alternate;
+  }
+
+  @keyframes moveWave3 {
+    from {
+      transform: translateX(-1600px);
+    }
+  }
+  .nav{
+      position: absolute;
+      z-index: 10000;
+  }
+
+.wavesserv {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 30px;
+}

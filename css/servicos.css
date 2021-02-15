@@ -1,0 +1,147 @@
+
+#conteudo3 p {
+    position: absolute;
+    opacity: 38%;
+    margin: 310px 48px;
+}
+
+#imgmoney {
+    margin-left: 958px;
+    margin-top: -300px;
+}
+
+#imgpeso {
+    margin-left: 834px;
+    margin-top: -300px;
+
+}
+
+#btn1 {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 103px;
+    cursor: pointer;
+    color:#edf0f1;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: rgb(123, 190, 123);
+}
+#btn1:hover {
+    background-color: rgb(71, 116, 71);
+    height: 37px;
+}
+
+#btn2 {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 103px;
+    cursor: pointer;
+    color:#edf0f1;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: rgb(123, 190, 123);
+}
+#btn2:hover {
+    background-color: rgb(71, 116, 71);
+    height: 37px;
+}
+
+#btn3 {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 109px;
+    cursor: pointer;
+    color:#edf0f1;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: rgb(123, 190, 123);
+}
+#btn3:hover {
+    background-color: rgb(71, 116, 71);
+    height: 37px;
+}
+
+.retangulo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1169px;
+    height: 508px;
+    background: #E0E0E0;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.retangulo2{
+    position: absolute;
+    width: 287px;
+    height: 341px;
+    margin-left:70px;
+    margin-top: 80px;
+    background: #C4C4C4;
+    border-radius: 42px;
+}
+.retangulo3{
+    position: absolute;
+    width: 287px;
+    height: 341px;
+    margin-left: 440px;
+    margin-top: 80px;   
+    background: #C4C4C4;
+    border-radius: 42px;
+}
+.retangulo4{
+    position: absolute;
+    width: 287px;
+    height: 341px;
+    margin-left: 810px;
+    margin-top: 80px;    
+    background: #C4C4C4;
+    border-radius: 42px;
+}
+.ellipse{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 68px;
+    margin-top: 30px;
+    background-color: #FFFFFF;
+    background-image: url(../imgs/Icon\ material-library-books.png);
+    background-repeat: no-repeat;
+    background-position: 44px;
+}
+.ellipse2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 68px;
+    margin-top: 30px;
+    background-image: url(../imgs/Icon\ awesome-money-bill-wave-alt.png);
+    background-repeat: no-repeat;
+    background-position: 44px;
+    background-color: #FFFFFF;
+
+}
+.ellipse3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 68px;
+    margin-top: 30px;
+    background-image: url(../imgs/Icon\ material-fitness-center.png);
+    background-repeat: no-repeat;
+    background-position: 44px;
+    background-color: #FFFFFF;
+
+}
+

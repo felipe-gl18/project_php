@@ -1,0 +1,282 @@
+#conteudo1 {
+    margin-top: 50px;
+    background:#C4C4C4;
+    width: 400px;
+    height: 450px;
+    border-radius: 6%;
+    margin-left: 80px;
+}
+#conteudo2 {
+    margin-top: 50px;
+    background:#C4C4C4;
+    width: 400px;
+    height: 450px;
+    border-radius: 6%;
+    margin-left: 80px;
+
+} 
+#conteudo3 {
+    background:#C4C4C4;
+    width: 400px;
+    height: 450px;
+    border-radius: 6%;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+#ellipse_P{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 120px;
+    background-image: url(../imgs/Icon\ material-library-books.png);
+    background-repeat: no-repeat;
+    background-position: center;  
+}
+    
+#completar1{
+    font-family: 'Goldman', cursive;
+    cursor: pointer;
+    color:#edf0f1;
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 160px;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: rgb(123, 190, 123);
+}
+#completar1:hover{
+    background-color: rgb(71, 116, 71);
+    height: 37px;
+}
+
+#completar2{
+    cursor: pointer;
+    color:#edf0f1;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 158px;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: rgb(123, 190, 123);
+}
+#completar2:hover{
+    background-color: rgb(71, 116, 71);
+    height: 37px;
+}
+
+#completar3{
+    cursor: pointer;
+    color:#edf0f1;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 158px;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: rgb(123, 190, 123);
+}
+#completar3:hover{
+    background-color: rgb(71, 116, 71);
+    height: 37px;
+}
+#caloriasT {
+    font-size: 15px;
+    position:absolute;
+    margin-top: 105px;
+    height:42px;
+    width:230px;
+    margin-left:83px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid red;
+    outline: none;
+
+}
+#calorias {
+    font-size: 15px;
+    position:absolute;
+    margin-top: 250px;
+    height:42px;
+    width:230px;
+    margin-left:83px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid  rgb(92, 135, 192);
+    outline: none;
+
+}
+
+#conteudo3 p {
+    position: absolute;
+    opacity: 38%;
+    margin: 310px 48px;
+}
+
+.quadrado4 {
+    background:#C4C4C4;
+    width: 400px;
+    height: 450px;
+    border-radius: 6%;
+    margin-left: 500px;
+}
+
+#pesoatual{
+    font-size: 15px;
+    position:absolute;
+    margin-top: 250px;
+    height:42px;
+    width:230px;
+    margin-left:83px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid  rgb(92, 135, 192);
+    outline: none;
+}
+
+#metaP{
+    font-size: 15px;
+    position:absolute;
+    margin-top: 105px;
+    height:42px;
+    width:230px;
+    margin-left:83px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid  red;
+    outline: none;
+}
+
+#imgmoney {
+    margin-left: 958px;
+    margin-top: -300px;
+}
+
+#imgpeso {
+    margin-left: 834px;
+    margin-top: -300px;
+
+}
+#salario {
+    font-size: 15px;
+    position:absolute;
+    margin-top: 105px;
+    height:42px;
+    width:230px;
+    margin-left:83px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid  rgb(92, 135, 192);
+    outline: none;
+
+}
+#customensal {
+    font-size: 15px;
+    position:absolute;
+    margin-top: 250px;
+    height:42px;
+    width:230px;
+    margin-left:83px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid rgb(92, 135, 192);
+    outline: none;
+}
+
+.quadrado1 p{
+    position: absolute;
+    opacity: 58%;
+    margin: 305px 80px;
+}
+
+.quadrado2 {
+
+    background:#C4C4C4;
+    width: 400px;
+    height: 450px;
+    border-radius: 6%;
+    margin-left: 500px;
+}
+#custoD{
+    font-size: 15px;
+    position:absolute;
+    margin-top: 105px;
+    height:42px;
+    width:230px;
+    margin-left:83px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid rgb(92, 135, 192);
+    outline: none;
+}
+#resto{
+    font-family: 'Goldman', cursive;
+    text-align: center;
+    font-size: 20px;
+    position:absolute;
+    margin-top: 250px;
+    height:50px;
+    width:230px;
+    border-radius: 30px;
+    margin-left:80px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+
+#resto_peso {
+    font-family: 'Goldman', cursive;
+    text-align: center;
+    font-size: 20px;
+    position:absolute;
+    margin-top: -435px;
+    height:42px;
+    width:230px;
+    border-radius: 30px;
+    margin-left: 665px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+#resto_peso, text{
+    text-align: center;
+}
+
+textarea{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 70px;
+    outline: none;
+    font-family: 'Goldman', cursive;
+}
+
+#nota{
+    position: absolute; 
+    margin-top: -450px;
+    background:#C4C4C4;
+    width: 400px;
+    height: 450px;
+    border-radius: 6%;
+    margin-left: 588px;
+    font-family: 'Goldman', cursive;
+    font-size: 15px;
+    text-align: center;
+}
+#nota_cont {
+    margin-left: 10px;
+    margin-right:10px;
+    margin-top: 20px;
+    word-wrap: break-word;
+}
+#title{
+    opacity: 50%;
+    font-size: 25px;
+}

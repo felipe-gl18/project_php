@@ -1,0 +1,80 @@
+body{
+    background-color: #24252A;
+}
+.login{
+    background-color:#EBD8D8;
+    height: 436px;
+    width:507px;
+    position: absolute;
+    margin-left: 425px;
+    margin-top: 50px;
+    border-radius: 50px;
+    border-color: #707070;
+    border-style: double;
+    z-index: 4000;
+}
+h2{
+    font-family: Yu Gothic UI;
+    opacity: 40%;
+    font-size: 40px;
+    Font-weight:normal;
+    margin-top: 45px;
+}
+
+#login{
+    font-family: 'Goldman', cursive;
+    font-size: 25px;
+    position:absolute;
+    margin-top: 10px;
+    height:72px;
+    width:271px;
+    border-radius: 30px;
+    margin-left:115px;
+    outline: none;
+}
+
+#senha{
+    font-family: 'Goldman', cursive;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 110px;
+    height:72px;
+    width:271px;
+    margin-left:115px;
+    border-radius: 30px;
+    outline: none;
+} 
+#btn-login{
+    position: absolute;
+    cursor: pointer;
+    margin-top: 225px;
+    margin-left: 320px;
+    width:112px;
+    height:48px;
+    border-radius:30px;
+    background-color: #9AC490;
+    font-family: 'Goldman', cursive;
+    font-size: 20px;
+    outline: none;
+}
+#btn-cadastro{
+    margin-left: 75px;
+    margin-top: 225px;
+    cursor: pointer;
+    width:112px;
+    height:48px;
+    border-radius:30px;
+    background-color: #71ECE8;
+    font-family: 'Goldman', cursive;
+    font-size: 18px;
+    outline: none;
+
+}
+#userimg{
+    position: absolute;
+    margin: 28px 70px;
+}
+#lockimg{
+    position: absolute;
+    margin: 130px 70px; 
+}

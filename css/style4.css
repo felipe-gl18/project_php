@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #24252A;
+}
+li, a, #btntop {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10px;
+}
+.logo {
+    position: absolute;
+    z-index: 20000;
+    margin-left: -1133px;
+    cursor: pointer;
+    margin-top: -25px;
+}
+.nav_links {
+    list-style: none;
+    margin-right: 140px;
+}
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+}
+.nav_links li a:hover {
+    color: #0088a9;
+}
+#btntop{
+    padding: 9px 25px;
+    background-color:#00cba9;
+    border: none;
+    border-radius: 50px;
+    cursor:pointer;
+    transition: all 0.3s ease 0s;
+    outline: none;
+
+}
+.cta{
+    z-index: 10000;
+}
+#btntop:hover {
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    outline: none;
+
+}
+.nav{
+    position: absolute;
+    z-index: 10000;
+}
+.img1{
+    position: absolute;
+    margin-left: 440px;
+    margin-top: 446px;
+}
+.img2{
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 160px;
+
+}
+.img3{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 130px;
+}
+.img4{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 210px;
+}
+.img5{
+   position: absolute;
+   margin-left: 220px;
+   margin-top: 215px;
+}
+.img6{
+    position: absolute;
+    margin-left: 1115px;
+    margin-top: 15px;
+}
+.who{
+    position: absolute;
+    margin-left: 880px;
+    margin-top: 280px;
+    color: #edf0f1;
+    font-family: 'Oswald', sans-serif;
+    word-spacing: 1.5px;
+}
+.who p{
+    font-size: 19px;
+}
+.circulos{
+    position: absolute;
+    width: 150px;
+    height:150px;
+    margin-left: 1000px;
+    margin-top: 400px;
+}
+
