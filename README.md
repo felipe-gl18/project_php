@@ -1,2 +1,3 @@
 # Project_MVC_PHP
-Bom, eu sou um apenas um estudante tentando aumentar meus conhecimentos sobre programação de forma geral. Então não tenho certeza sobre o que meus projetos vão se tratar!.
+This is just a little project in php, containing a system of login and register, the rest 
+is for maybe serve as an example of how to do request of the DB
